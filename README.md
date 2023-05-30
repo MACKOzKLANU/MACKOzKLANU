@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MACKOzKLANU
 - 👀 I’m interested in gym and programming
 - 🌱 I’m currently learning html, css, js, python, c++, php
- ![js]([link_do_obrazu](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png))
+ ![js]([link_do_obrazu](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
