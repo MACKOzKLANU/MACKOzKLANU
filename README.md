@@ -11,7 +11,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="c++" width="30" height="30">PHP
 - 💡Frameworks💡
 - <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="30" height="30">Bootstrap
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1920px-Flask_logo.svg.png" alt="flask" width="30" height="30">Flask
+  <img src="https://www.educative.io/v2api/editorpage/6196871006519296/image/6316021754363904" alt="flask" width="30" height="30">Flask
 
 
 
