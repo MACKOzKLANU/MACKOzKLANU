@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MACKOzKLANU
+- 👋 <h1>Hi, I’m @MACKOzKLANU</h1>
 - 👀 I’m interested in programming, computer science and ai
 - 🌱 I’m currently learning:
 - 👨‍💻Front end 👨‍💻
