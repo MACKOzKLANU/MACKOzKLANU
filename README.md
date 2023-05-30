@@ -1,4 +1,5 @@
 -  <h1>👋Hi, I’m @MACKOzKLANU</h1>
+-  <h2>I've been learning programming for 2 years</h2>
 - <h2>👀 I’m interested in programming, computer science and ai</h2>
 - <h2>🌱 I’m currently learning:</h2>
 - <h2>👨‍💻Front end 👨‍💻</h2>
