@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @MACKOzKLANU
 - 👀 I’m interested in gym and programming
-- 🌱 I’m currently learning html, css, js, python, c++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning html, css, js, python, c++, php
+
+javascript typescript react graphql nodejs
+<!-- - 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... -->
 
 <!---
 MACKOzKLANU/MACKOzKLANU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
