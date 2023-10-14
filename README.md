@@ -1,7 +1,7 @@
 -  <h1>👋Hi, I’m @MACKOzKLANU</h1>
 -  <h2>I've been learning programming for 3 years</h2>
-- <h3>👀 I’m interested in programming, computer science and ai</h3>
-- <h3>🔩 I’m also into weightlifting</h3>
+- <h3>👀 I'm into programming and i want to start my career as a programmer after finishing school.</h3>
+- <h3>🔩 I also like lifting weights at the gym</h3>
 <!---<p> <img src="https://komarev.com/ghpvc/?username=mackozklanu&label=Profile%20views&color=0e75b6&style=flat" alt="mackozklanu" /> </p>-->
 
 <!---<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mackozklanu" alt="mackozklanu" /></a> </p>-->
