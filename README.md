@@ -2,9 +2,8 @@
 -  <h2>I've been learning programming for 3 years</h2>
 - <h3>👀 I’m interested in programming, computer science and ai</h3>
 - <h3>🔩 I’m also into weightlifting</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mackozklanu&label=Profile%20views&color=0e75b6&style=flat" alt="mackozklanu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mackozklanu" alt="mackozklanu" /></a> </p>
+<!---<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mackozklanu" alt="mackozklanu" /></a> </p>-->
 
 - <h2>🌱 I’m currently learning:</h2>
 
@@ -23,8 +22,7 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mackozklanu&show_icons=true&locale=en&layout=compact" alt="mackozklanu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mackozklanu&show_icons=true&locale=en" alt="mackozklanu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mackozklanu&" alt="mackozklanu" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=MACKOzKLANU&theme=highcontrast&show_icons=true&hide_border=false&count_private=true">
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MACKOzKLANU&theme=highcontrast&hide_border=false">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MACKOzKLANU&theme=highcontrast&show_icons=true&hide_border=false&layout=compact">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mackozklanu&label=Profile%20views&color=0e75b6&style=flat" alt="mackozklanu" /> </p>
