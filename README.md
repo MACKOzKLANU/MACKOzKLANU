@@ -25,5 +25,5 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=MACKOzKLANU&theme=highcontrast&show_icons=true&hide_border=false&count_private=true">
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MACKOzKLANU&theme=highcontrast&hide_border=false">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MACKOzKLANU&theme=highcontrast&show_icons=true&hide_border=false&layout=compact">
-<br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mackozklanu&label=Profile%20views&color=0e75b6&style=flat" alt="mackozklanu" /> </p>
+
+<p> <img src="https://komarev.com/ghpvc/?username=mackozklanu&label=Profile%20views&color=0e75b6&style=flat" alt="mackozklanu" /> </p>
