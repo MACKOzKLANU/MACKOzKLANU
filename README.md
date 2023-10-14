@@ -23,8 +23,8 @@
 </p>
 
 # 📊 GitHub Stats:
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=MACKOzKLANU&theme=highcontrast&show_icons=true&hide_border=false&count_private=true">
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MACKOzKLANU&theme=highcontrast&hide_border=false">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=MACKOzKLANU&theme=highcontrast&show_icons=true&hide_border=false&count_private=true"/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MACKOzKLANU&theme=highcontrast&hide_border=false"/>
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MACKOzKLANU&theme=highcontrast&show_icons=true&hide_border=false&layout=compact">-->
 <p align="left"></p>
-<img align="left"  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+<img align="left"  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
