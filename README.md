@@ -1,5 +1,5 @@
 -  <h1>👋Hi, I’m @MACKOzKLANU</h1>
--  <h2>I've been learning programming for 4 years</h2>
+-  <h2>I've been learning programming for 5 years</h2>
 - <h3>👀 I'm into programming and i want to start my career as a programmer after finishing school.</h3>
 - <h3>🔩 I also like lifting weights at the gym</h3>
 <!---<p> <img src="https://komarev.com/ghpvc/?username=mackozklanu&label=Profile%20views&color=0e75b6&style=flat" alt="mackozklanu" /> </p>-->
